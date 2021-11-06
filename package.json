@@ -1,0 +1,25 @@
+{
+  "name": "web-scrapper-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coder-mahfuz/web-scrapper-expressjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coder-mahfuz/web-scrapper-expressjs/issues"
+  },
+  "homepage": "https://github.com/coder-mahfuz/web-scrapper-expressjs#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
